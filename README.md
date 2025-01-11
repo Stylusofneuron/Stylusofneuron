@@ -1,4 +1,4 @@
-# Hi I am sytlusofneuron
+# Hi I am stylusofneuron
 I am an aspiring neuroscientist. My goal is to understand brain by using bioogical and computational methods. 
 I want to contribute to the opensource society by sharing my inventions and knowledge.
 I hope I will be able to programme and make automatas that will help people who shares my will, whom I consider to be the humans who are closest to me.
